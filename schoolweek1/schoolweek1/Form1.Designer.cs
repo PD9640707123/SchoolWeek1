@@ -28,20 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnbutton1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnbmi = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnbutton1
             // 
-            this.button1.Location = new System.Drawing.Point(247, 147);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(224, 82);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnbutton1.Location = new System.Drawing.Point(118, 118);
+            this.btnbutton1.Name = "btnbutton1";
+            this.btnbutton1.Size = new System.Drawing.Size(160, 82);
+            this.btnbutton1.TabIndex = 0;
+            this.btnbutton1.Text = "按鈕";
+            this.btnbutton1.UseVisualStyleBackColor = true;
+            this.btnbutton1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -81,17 +83,27 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "范綱峻";
             // 
+            // btnbmi
+            // 
+            this.btnbmi.Location = new System.Drawing.Point(118, 218);
+            this.btnbmi.Name = "btnbmi";
+            this.btnbmi.Size = new System.Drawing.Size(160, 82);
+            this.btnbmi.TabIndex = 4;
+            this.btnbmi.Text = "BMI";
+            this.btnbmi.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnbmi);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnbutton1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = " ";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -99,10 +111,11 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnbutton1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnbmi;
     }
 }
 

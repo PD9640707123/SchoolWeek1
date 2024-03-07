@@ -31,5 +31,12 @@ namespace schoolweek1
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+           
+            btnbutton1.Text="我已經按過了";
+            
+        }
     }
 }

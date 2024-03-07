@@ -1,0 +1,10 @@
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\bin\Debug\schoolweek1.exe.config
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\bin\Debug\schoolweek1.exe
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\bin\Debug\schoolweek1.pdb
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Form1.resources
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.exe
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.pdb
