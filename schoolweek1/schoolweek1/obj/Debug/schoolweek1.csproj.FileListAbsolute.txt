@@ -8,3 +8,4 @@ C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1
 C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.csproj.CoreCompileInputs.cache
 C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.exe
 C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.pdb
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.FormButton.resources
