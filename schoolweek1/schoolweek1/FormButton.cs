@@ -32,5 +32,17 @@ namespace schoolweek1
             int sum = Int32.Parse(count)+1;
             label1.Text=sum.ToString();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            String count = label1.Text;
+            int sum = Int32.Parse(count)-1;
+            label1.Text=sum.ToString();
+        }
     }
 }
