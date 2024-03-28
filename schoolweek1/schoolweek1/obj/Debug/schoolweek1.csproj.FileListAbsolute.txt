@@ -9,3 +9,15 @@ C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1
 C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.exe
 C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.pdb
 C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.FormButton.resources
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\bin\Debug\schoolweek1.exe.config
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\bin\Debug\schoolweek1.exe
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\bin\Debug\schoolweek1.pdb
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.csproj.AssemblyReference.cache
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Form1.resources
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.FormButton.resources
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Properties.Resources.resources
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.csproj.GenerateResource.cache
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.csproj.CoreCompileInputs.cache
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.exe
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.pdb
+C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Form2.resources
