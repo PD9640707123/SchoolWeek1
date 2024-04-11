@@ -21,3 +21,4 @@ C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\sch
 C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.exe
 C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.pdb
 C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Form2.resources
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Form2.resources

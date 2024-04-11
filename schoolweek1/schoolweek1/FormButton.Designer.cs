@@ -37,7 +37,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(112, 296);
+            this.button1.Location = new System.Drawing.Point(109, 286);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(118, 44);
             this.button1.TabIndex = 0;
@@ -47,7 +47,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(108, 158);
+            this.button2.Location = new System.Drawing.Point(64, 75);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(122, 45);
             this.button2.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("新細明體", 20F);
-            this.label1.Location = new System.Drawing.Point(251, 93);
+            this.label1.Location = new System.Drawing.Point(188, 36);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(25, 27);
             this.label1.TabIndex = 2;
@@ -76,7 +76,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(310, 158);
+            this.button3.Location = new System.Drawing.Point(215, 75);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(122, 45);
             this.button3.TabIndex = 3;
