@@ -52,5 +52,12 @@ namespace schoolweek1
 
             form.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form form = new Form5();
+
+            form.Show();
+        }
     }
 }
