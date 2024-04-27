@@ -51,9 +51,19 @@ namespace schoolweek1
 
         private void button5_Click(object sender, EventArgs e)
         {
+            
             int a = Int32.Parse(textBox10.Text);
             int b = Int32.Parse(textBox9.Text);
-            label11.Text=(a/b).ToString();
+
+            if (b > 0)
+            {
+                label11.Text = (a / b).ToString();
+            }
+            else
+            {
+                label11.Text = "錯誤：分母不能為零";
+            }
+
         }
     }
 }

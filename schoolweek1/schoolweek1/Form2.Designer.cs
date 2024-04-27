@@ -95,7 +95,7 @@ namespace schoolweek1
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(620, 61);
+            this.button2.Location = new System.Drawing.Point(675, 59);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 4;
@@ -187,7 +187,7 @@ namespace schoolweek1
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(620, 125);
+            this.button3.Location = new System.Drawing.Point(675, 123);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 10;
@@ -238,7 +238,7 @@ namespace schoolweek1
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(620, 180);
+            this.button4.Location = new System.Drawing.Point(675, 178);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 16;
@@ -289,7 +289,7 @@ namespace schoolweek1
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(620, 230);
+            this.button5.Location = new System.Drawing.Point(675, 230);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 22;
