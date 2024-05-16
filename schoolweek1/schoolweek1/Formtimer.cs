@@ -17,7 +17,7 @@ namespace schoolweek1
         {
            
             InitializeComponent();
-            this.scond=00;
+            this.scond=0;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -29,6 +29,23 @@ namespace schoolweek1
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled=true;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled=false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            scond=0;
+            label1.Text=$"0秒".ToString();
+            
         }
     }
 }

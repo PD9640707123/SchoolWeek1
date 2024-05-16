@@ -73,5 +73,12 @@ namespace schoolweek1
 
             form.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form form = new FormGamecode();
+
+            form.Show();
+        }
     }
 }
