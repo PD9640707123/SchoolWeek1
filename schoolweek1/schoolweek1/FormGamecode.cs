@@ -28,6 +28,14 @@ namespace schoolweek1
                 {
                     MessageBox.Show("恭喜答對");
                 }
+                else if(input<=this.min)
+                {
+                    MessageBox.Show("請輸入大於" + this.min);
+                }
+                else if (input >= this.max)
+                {
+                    MessageBox.Show("請輸入小於" + this.max);
+                }
                 else if(input < this.answer)
                 {
                     this.min=input;
