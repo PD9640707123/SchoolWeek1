@@ -28,3 +28,5 @@ C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\sch
 C:\Users\pd964\OneDrive\桌面\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Form6.resources
 C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.Formtimer.resources
 C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.FormGamecode.resources
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.FormChackbox.resources
+C:\Users\MEGAS\Desktop\SchoolWeek1\schoolweek1\schoolweek1\obj\Debug\schoolweek1.FormMenu.resources

@@ -80,5 +80,19 @@ namespace schoolweek1
 
             form.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form form = new FormChackbox();
+
+            form.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form form = new FormMenu();
+
+            form.Show();
+        }
     }
 }
